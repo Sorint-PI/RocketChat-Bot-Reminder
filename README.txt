@@ -1,5 +1,5 @@
 Settings:
-- clone repositories
+- clone repository
 - modify the reminder_file variable in the add_reminder.sh file putting the path of the reminder_file.txt file
 - edit the reminder_file variable in the reminder.sh file
 - modify the channel variable in the reminder.sh file putting the chosen channel preceded by #
