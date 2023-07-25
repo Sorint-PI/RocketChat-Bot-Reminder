@@ -7,7 +7,7 @@ Settings:
 - modify the file owner with the user who will execute the script
 - modify the permissions on the folder chmod 700 *
 - schedule the reminder.sh script in the crontab every 30 min
-30 * * * * /path/reminder.sh
+*/30 * * * * /path/reminder.sh
 
 Usage:
 - run the add_reminder.sh script setting the year, month, day, hour and message of the reminder.
